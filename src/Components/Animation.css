@@ -1,0 +1,8 @@
+#apply-btn{
+    visibility: hidden;
+    
+}
+
+#card:hover  #apply-btn{
+visibility: visible;
+}
